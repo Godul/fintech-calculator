@@ -1,0 +1,7 @@
+{
+  "amount": 500000,
+  "term_in_months": 300,
+  "interest_rate": 0.037,
+  "installment_method": "fixed",
+  "commission_method": "not_include"
+}
